@@ -1,1 +1,11 @@
 // Keyboard Layout here
+
+default
+xkb_smbols "basic" {
+
+    name[Group1]="Cocanb"
+
+    key <AE01>  { [ 1, exclam, plusminus ] };
+    key <AE02>  { [ 2, quotedbl, at ] };
+
+};
