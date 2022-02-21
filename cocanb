@@ -2,6 +2,7 @@
 
 default
 xkb_smbols "basic" {
+    include "latin"
 
     name[Group1]="Cocanb"
 
