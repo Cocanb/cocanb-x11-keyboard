@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-cp cocanb /usr/share/X11/skb/symbols/
+cp cocanb /usr/share/X11/xkb/symbols/
